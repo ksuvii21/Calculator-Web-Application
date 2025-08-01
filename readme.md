@@ -70,7 +70,7 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♀️ Author
 Made with ❤️ by Kritika Gupta
-Connect with me on LinkedIn- [Kritika Gupta](https://www.linkedin.com/in/kritika-gupta-000941367)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kritika-gupta-000941367)
 
 
 ---
