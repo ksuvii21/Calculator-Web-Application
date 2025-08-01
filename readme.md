@@ -4,10 +4,8 @@ A sleek and responsive Calculator Web App built using HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
 
-Live Preview: [Click here to try the calculator](https://ksuvii21.github.io/Calculator-Web-Application/)  
+Live Preview:
 (Swap the link with your GitHub Pages or hosted URL)
-
-![Calculator Preview](preview.png)
 
 ---
 
@@ -72,7 +70,7 @@ This project is licensed under the MIT License.
 
 ## 🙋‍♀️ Author
 Made with ❤️ by Kritika Gupta
-Connect with me on LinkedIn- [Kritika Gupta](https://www.linkedin.com/in/kritika-gupta-000941367)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/kritika-gupta-000941367)
 
 
 ---
