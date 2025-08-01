@@ -4,7 +4,7 @@ A sleek and responsive Calculator Web App built using HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
 
-Live Preview: [Click here to try the calculator]()  
+Live Preview:
 (Swap the link with your GitHub Pages or hosted URL)
 
 ---
