@@ -4,7 +4,7 @@ A sleek and responsive Calculator Web App built using HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
 
-Live Preview: [Click here to try the calculator](https://ksuvii21.github.io/Calculator-Web-Application/)  
+Live Preview: [Click here to try the calculator]()  
 (Swap the link with your GitHub Pages or hosted URL)
 
 ---
