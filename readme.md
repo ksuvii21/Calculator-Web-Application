@@ -2,13 +2,6 @@
 
 A sleek and responsive Calculator Web App built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and offers a clean, intuitive user interface — ideal for quick calculations on any device.
 
-## 🚀 Demo
-
-Live Preview:
-(Swap the link with your GitHub Pages or hosted URL)
-
----
-
 ## 🧰 Tech Stack
 
 - 💻 **Frontend:** HTML5, CSS3, JavaScript (ES6+)
