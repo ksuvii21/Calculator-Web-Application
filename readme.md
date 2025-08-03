@@ -2,6 +2,13 @@
 
 A sleek and responsive Calculator Web App built using HTML, CSS, and JavaScript. It performs basic arithmetic operations and offers a clean, intuitive user interface — ideal for quick calculations on any device.
 
+
+## 🚀 Demo
+
+Live Preview: [Click here to try the calculator](https://ksuvii21.github.io/Calculator-Web-Application/)  
+
+---
+
 ## 🧰 Tech Stack
 
 - 💻 **Frontend:** HTML5, CSS3, JavaScript (ES6+)
